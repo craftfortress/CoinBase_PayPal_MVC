@@ -40,7 +40,7 @@ namespace Namespace.Controllers
         public string txtEmail = "";
         public string UserName = "";
         public string LastName = "";
-        public string PayPalPDTToken = "j7tW2fkAZstG0qtd5wflg-Y9AomS3vJ8b-iofSj6co-DG14OwqLIxCJToeS";
+        public string PayPalPDTToken = "exampleToken-ar2309r8KNs0823hQ£nfkajenfksejnfefjesnkfjsne";
         public string orderID = "";
         public logger _logger = new logger();
          
